@@ -26,6 +26,7 @@ Resume Analyzer is a web application designed to analyze PDF resumes, optionally
 ### Prerequisites
 *   Python 3.11 (as specified in pyproject.toml)
 *   uv (for managing dependencies)
+*   API  Key for Qwen
 
    
 1.  **Environment Variables:**
