@@ -1,0 +1,21 @@
+[project]
+name = "hackathon"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "bs4>=0.0.2",
+    "chromadb>=1.0.9",
+    "dashscope>=1.23.3",
+    "docx>=0.2.4",
+    "easyocr>=1.7.2",
+    "flask>=3.1.1",
+    "openai>=1.79.0",
+    "pillow>=11.2.1",
+    "pybase64>=1.4.1",
+    "pypdf2>=3.0.1",
+    "python-docx>=1.1.2",
+    "requests>=2.32.3",
+    "sentence-transformers>=4.1.0",
+]
